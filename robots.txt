@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bespoke-klepon-d7d288.netlify.app/sitemap.xml
